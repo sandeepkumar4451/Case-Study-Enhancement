@@ -1,0 +1,6 @@
+Changes made in CaseStudy:
+
+1)Before,sending automatic mails done only when user register but now automatic mail will send when user do other functions like login,update profile,tickets book
+2)Ticket pdf design has changed
+3)Some html pages design were changed
+4)Rectified errors
